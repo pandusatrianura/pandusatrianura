@@ -2,11 +2,11 @@
 
 ### A passionate developer
 
-- 🔭 I'm currently working on **a Startup Company**
+- 🔭 I'm currently working on **a startup company in southeast asia**
 
-- 🌱 I'm currently learning **GRPC, Golang**
+- 🌱 I'm currently learning **GRPC, Golang, Rust, Node Js**
 
-- 👯 I'm looking to collaborate on **SaaS project, backend project**
+- 👯 I'm looking to collaborate on **SaaS and Backend Projects**
 
 - 🤝 I'm looking for help with **learning system design**
 
