@@ -2,25 +2,25 @@
 
 ### A passionate developer
 
-- 🔭 I'm currently working on **a startup company in southeast asia**
+- 🔭 I'm currently working on **a startup company in southeast asia**.
 
-- 🌱 I'm currently learning **GRPC, Golang, Rust, Node Js**
+- 🌱 I'm currently learning **GRPC, Golang, Rust, Node Js**.
 
-- 👯 I'm looking to collaborate on **SaaS and Backend Projects**
+- 👯 I'm looking to collaborate on **SaaS and Backend Projects**.
 
-- 🤝 I'm looking for help with **learning system design**
+- 🤝 I'm looking for help with **learning system design**.
 
-- 💬 Ask me about **Golang**
+- 💬 Ask me about **Golang**.
 
-- 📫 How to reach me **pandusatrianura@gmail.com**
+- 📫 How to reach me **pandusatrianura@gmail.com**.
 
-- ⚡ Fun fact **I think I am funny**
+- ⚡ Fun fact **I think I am funny**.
 
-- 👨‍💻 All of my projects are available at **to be developed**
+- 👨‍💻 All of my projects are available at **to be developed**.
 
-- 📝 I regularly write articles on **to be developed**
+- 📝 I regularly write articles on **to be developed**.
 
-- 📄 Know about my experiences **[https://www.linkedin.com/in/pandu-satria-nur-ananda-71a793187/](https://www.linkedin.com/in/pandu-satria-nur-ananda-71a793187/)**
+- 📄 Know about my experiences **[https://www.linkedin.com/in/pandu-satria-nur-ananda-71a793187/](https://www.linkedin.com/in/pandu-satria-nur-ananda-71a793187/)**.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
