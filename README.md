@@ -4,7 +4,7 @@
 
 - 🔭 I'm currently working on **a startup company in southeast asia**.
 
-- 🌱 I'm currently learning **GRPC, Golang, Rust, Node Js**.
+- 🌱 I'm currently learning **GRPC, Rust, Node Js**.
 
 - 👯 I'm looking to collaborate on **SaaS and Backend Projects**.
 
