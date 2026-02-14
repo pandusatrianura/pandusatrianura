@@ -8,19 +8,15 @@
 
 - 👯 I'm looking to collaborate on **SaaS and Backend Projects**.
 
-- 🤝 I'm looking for help with **learning system design**.
-
 - 💬 Ask me about **Golang**.
 
 - 📫 How to reach me **pandusatrianura@gmail.com**.
 
 - ⚡ Fun fact **I think I am funny**.
 
-- 👨‍💻 All of my projects are available at **to be developed**.
+- 👨‍💻 All of my info, my project and my write article are available at [**https://www.pandusatrianura.cloud/**](https://www.pandusatrianura.cloud/).
 
-- 📝 I regularly write articles on **to be developed**.
-
-- 📄 Know about my experiences **[https://www.linkedin.com/in/pandu-satria-nur-ananda-71a793187/](https://www.linkedin.com/in/pandu-satria-nur-ananda-71a793187/)**.
+- 📄 Know about my experiences **[https://www.linkedin.com/in/pandu-satria-nur-ananda/](https://www.linkedin.com/in/pandu-satria-nur-ananda/)**.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
