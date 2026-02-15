@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **pandusatrianura@gmail.com**.
 
-- ⚡ My Certification, currently hold :
+- ⚡ My Certification, currently held :
     - Microsoft Certification Professional
       - MCSA : Web Applications - Certified 2018, Achievement Date : September 20, 2018
       - MCSD : App Builder — Certified 2018, Achievement Date : September 20, 2018 
