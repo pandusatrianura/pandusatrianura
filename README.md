@@ -12,15 +12,14 @@
 
 - 📫 How to reach me **pandusatrianura@gmail.com**.
 
-- ⚡ Certified, currently hold :
+- ⚡ My Certification, currently hold :
     - Microsoft Certification Professional
       - MCSA : Web Applications - Certified 2018, Achievement Date : September 20, 2018
       - MCSD : App Builder — Certified 2018, Achievement Date : September 20, 2018 
       - Transcript ID: 1232654.
       - Access Code: pandusatria.
       - Transcript Viewing Page: https://mcp.microsoft.com/Anonymous//Transcript/Validate
-
-    AWS Solution Architect - Professional
+    - AWS Solution Architect - Professional
       - Sept 2024 - Sept 2027
       - https://www.credly.com/badges/99aae33b-e85d-49cf-9455-097b56a08050/linked_in_profile
 
