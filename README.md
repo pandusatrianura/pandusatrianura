@@ -1,37 +1,68 @@
-# Hi 👋, I'm Pandu Satria Nur Ananda
+# Pandu Satria Nur Ananda
 
-### A passionate developer
+Backend-focused engineer building reliable systems and scalable products.
 
-- 🔭 I'm currently working on **a startup company in southeast asia**.
+[Portfolio](https://www.pandusatrianura.cloud/) • [GitHub](https://github.com/pandusatrianura) • [LinkedIn](https://www.linkedin.com/in/pandu-satria-nur-ananda/) • [Email](mailto:pandusatrianura@gmail.com)
 
-- 🌱 I'm currently learning **GRPC, Rust, Node Js**.
+---
 
-- 👯 I'm looking to collaborate on **SaaS and Backend Projects**.
+## 🚀 Current Focus
 
-- 💬 Ask me about **Golang**.
+- Building in startup environments across Southeast Asia.
+- Deepening expertise in gRPC, Rust, and modern Node.js backend patterns.
+- Open to collaboration on SaaS and backend engineering projects.
 
-- 📫 How to reach me **pandusatrianura@gmail.com**.
+## 🧩 What I Bring
 
-- ⚡ My Certification, currently held :
-    - Microsoft Certification Professional
-      - MCSA : Web Applications - Certified 2018, Achievement Date : September 20, 2018
-      - MCSD : App Builder — Certified 2018, Achievement Date : September 20, 2018 
-      - Transcript ID: 1232654.
-      - Access Code: pandusatria.
-      - Transcript Viewing Page: https://mcp.microsoft.com/Anonymous//Transcript/Validate
-    - AWS Solution Architect - Professional
-      - Sept 2024 - Sept 2027
-      - https://www.credly.com/badges/99aae33b-e85d-49cf-9455-097b56a08050/linked_in_profile
+- Backend engineering with strong focus on performance, maintainability, and delivery.
+- Practical cloud and DevOps experience for production-ready services.
+- Comfortable bridging architecture decisions with hands-on implementation.
 
-- 👨‍💻 All of my info, my project and my write article are available at [**https://www.pandusatrianura.cloud/**](https://www.pandusatrianura.cloud/).
+## 🛠️ Technical Focus
 
-- 📄 Know about my experiences **[https://www.linkedin.com/in/pandu-satria-nur-ananda/](https://www.linkedin.com/in/pandu-satria-nur-ananda/)**.
+- **Languages & Runtime:**
+![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+- **Cloud & Platform:**
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white)
+- **Data & Messaging:**
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=MySQL&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-4DB33D?style=flat&logo=mongodb&logoColor=FFFFFF)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=Redis&logoColor=white)
+![Kafka](https://img.shields.io/static/v1?label=&message=kafka&logo=apache-kafka&color=4f4f4f)
+- **Observability:**
+![Elasticsearch](https://img.shields.io/badge/-ElasticSearch-005571?style=flat&logo=elasticsearch)
+![Kibana](https://img.shields.io/badge/Kibana-005571?&style=plastic&logo=Kibana&logoColor=white)
+![Grafana](https://img.shields.io/badge/-Grafana-000?&logo=Grafana)
+![Datadog](https://img.shields.io/badge/-DataDog-000?logo=datadog)
+- **Frontend & Tooling:**
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-222?&logo=figma)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://github.com/pandusatrianura" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="pandusatrianura" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/pandu-satria-nur-ananda-71a793187" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pandu-satria-nur-ananda" height="30" width="40" /></a>
-</p>
+## 📜 Certifications
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/aws" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=aws" alt="aws" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/csharp" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=cs" alt="csharp" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/docker" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=docker" alt="docker" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/dotnet" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=dotnet" alt="dotnet" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/elasticsearch" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=elasticsearch" alt="elasticsearch" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/figma" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=figma" alt="figma" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/gcp" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=gcp" alt="gcp" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/git" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/go" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=go" alt="go" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/grafana" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=grafana" alt="grafana" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/jenkins" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=jenkins" alt="jenkins" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/kafka" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=kafka" alt="kafka" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/kibana" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kibana/kibana-original.svg" alt="kibana" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/kubernetes" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=kubernetes" alt="kubernetes" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mariadb" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mongodb" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mongodb" alt="mongodb" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mssql" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mysql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/postgresql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=postgres" alt="postgresql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/postman" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=postman" alt="postman" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/rabbitMQ" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=rabbitmq" alt="rabbitMQ" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/react" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/redis" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=redis" alt="redis" width="40" height="40"/> </a></p>
+- **Microsoft Certification Professional (2018)**
+  - MCSA: Web Applications
+  - MCSD: App Builder
+  - Verification page: [Microsoft Transcript Validation](https://mcp.microsoft.com/Anonymous//Transcript/Validate)
+
+- **AWS Certified Solutions Architect – Professional**
+  - Valid: Sep 2024 - Sep 2027
+  - Verification: [Credly Badge](https://www.credly.com/badges/99aae33b-e85d-49cf-9455-097b56a08050/linked_in_profile)
+
+## 🤝 Let's Connect
+
+I enjoy collaborating on backend systems, platform engineering, and SaaS products.
+
+- GitHub: [pandusatrianura](https://github.com/pandusatrianura)
+- LinkedIn: [pandu-satria-nur-ananda](https://www.linkedin.com/in/pandu-satria-nur-ananda/)
+- Email: [pandusatrianura@gmail.com](mailto:pandusatrianura@gmail.com)
