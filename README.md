@@ -52,8 +52,11 @@ Backend-focused engineer building reliable systems and scalable products.
 
 - **Microsoft Certification Professional (2018)**
   - MCSA: Web Applications
+    - Verification page:
+      - [Credly Badge](https://www.credly.com/badges/3b18a543-b782-423d-9401-43d152217a0f)
   - MCSD: App Builder
-  - Verification page: [Microsoft Transcript Validation](https://mcp.microsoft.com/Anonymous//Transcript/Validate)
+    - Verification page:
+      - [Credly Badge](https://www.credly.com/badges/3b2c9e5e-37b7-4837-bca8-f34b16b898ac)
 
 - **AWS Certified Solutions Architect – Professional**
   - Valid: Sep 2024 - Sep 2027
